@@ -5,7 +5,7 @@ Thomas Dumont
 Pour faire fonctionner l'ensemble du projet, merci d'utiliser tout le dossier "MDtoHTML".
 Pour transformer vos fichiers markdown en HTML, les mettres dans le dossier "fichiers_markdown" et executer le programme "mdtohtml.py", les fichiers HTML générés seront ensuite envoyé dans un dossier qui se créera automatiquement s'il n'ai pas déjà créé nommé "fichiers_html".
 
-## Présentation de mon projet
+## Présentation du code
 
 Dans un premier temps j'importe deux bibliothèques, une pour manipuler les chemins windows qui s'appelle "pathlib" et l'autre qui s'appelle "markdown2" permettant de transformer du texte en format markdown en format HTML.
 
